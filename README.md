@@ -8,7 +8,7 @@ Willkommen auf meiner persönlichen Portfolio-Website! Hier zeige ich meine Proj
 
 
 ## 📖 Über das Projekt
-... (hier kannst du den Zweck der Seite beschreiben, z.B. Bewerbung, Showcase etc.)
+Diese Portfolio-Website dient als meine digitale Bewerbungsmappe. Sie zeigt meinen Werdegang, meine technischen Fähigkeiten und eine Auswahl meiner bisherigen Projekte. Potenzielle Arbeitgeber erhalten so einen schnellen und übersichtlichen Eindruck von meiner Arbeit als Webentwickler.
 
 ## 🛠️ Verwendete Technologien
 - HTML5, CSS3, JavaScript

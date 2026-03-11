@@ -15,15 +15,3 @@ Willkommen auf meiner persönlichen Portfolio-Website! Hier zeige ich meine Proj
 - HTML5, CSS3, JavaScript
 - (Weitere ergänzen)
 
-## 🚀 GitHub Pages aktivieren (falls noch nicht geschehen)
-1. Gehe zu deinem Repository: [github.com/kasal22/portfolio](https://github.com/kasal22/portfolio)
-2. Klicke auf **Settings** → **Pages** (linke Menüleiste)
-3. Wähle unter **Branch** den Hauptbranch (`main` oder `master`) und speichere.
-4. Nach wenigen Minuten ist die Seite unter obigem Link erreichbar.
-
-## 📂 Lokale Installation (optional)
-Falls du das Projekt lokal ausführen möchtest:
-```bash
-git clone https://github.com/kasal22/portfolio.git
-cd portfolio
-# Öffne einfach die index.html im Browser
